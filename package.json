@@ -1,0 +1,25 @@
+{
+  "name": "expressjs-passport-azure-ad",
+  "version": "0.0.0",
+  "description": "Express 4.x app using Passport Azure AD for authentication via OpenID Connect with Azure AD.",
+  "keywords": [
+    "azuread",
+    "express",
+    "passport",
+    "microsoft"
+  ],
+  "author": "Sahil Malik",
+  "license": "MIT",
+  "homepage": "https://github.com/maliksahil/expressjs-passport-azure-ad",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "connect-ensure-login": "^0.1.1",
+    "cookie-parser": "^1.4.4",
+    "ejs": "^2.6.1",
+    "express": "^4.16.4",
+    "express-session": "^1.15.6",
+    "morgan": "^1.9.1",
+    "passport": "^0.4.0",
+    "passport-azure-ad": "^4.0.0"
+  }
+}
